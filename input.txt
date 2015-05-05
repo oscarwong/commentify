@@ -1,0 +1,91 @@
+# Russell Investments Interactive Design Overview
+The digital landscape has changed dramatically, as has Russell’s approach to its eBusiness strategy. This document contains tools, inspiration and examples to help you successfully implement the Russell brand and identity system, with a focus on two clear goals:
+1. Provide a framework to ensure that all Russell digital properties are appropriately consistent, build brand awareness and recognition and adhere to a global standard that presents one Russell, globally.
+2. Enable increased efficiency in the creation and maintenance of all Russell digital properties.
+
+## Table of contents
+* [Our Identity](#our-identity)
+* [Brand Elements](#brand-elements)
+  * [Logo](#brand-elements-logo)
+    * [The Stacked Logo](#stacked-logo)
+    * [The Horizontal Logo](#horizontal-logo)
+    * [Clear Space Around Logo](#space-logo)
+	* [Minimum Sizes for the Logo](#minimum-logo)
+	* [The Russell Mountain](#russell-mountain)
+	* [Logo Requirements for Mobile Apps](#russell-mobile)
+  * [Stripe](#brand-elements-stripe)
+  * [The Journey](#brand-elements-journey)
+## Our Identity <a id="our-identity"></a>
+A symbol of quality, integrity and commitment, Russell Investments is a premium brand. This should be reflected in the design and performance of all digital products.
+
+Russell teams, across business units and regions, are committed to working together to deliver best-in-class digital experiences that will help the firm generate revenue, retain and grow assets under management and manage expenses, while supporting key business goals and clearly presenting one Russell, globally.
+## Brand Elements <a id="brand-elements"></a>
+
+### Logo <a id="brand-elements-logo"></a>
+---
+#### The Stacked Logo <a id="stacked-logo"></a>
+The stacked logo is the standard version of the Russell Investments brand logo. The Russell mountain and the logotype have been specially drawn and must never be re-created or typeset in an alternative font. The Russell brand logo appears only in black or white.
+
+<img src="assets/img/russell-logo-black-bg.svg" width="300">
+<img src="assets/img/russell-logo-white-bg.svg" width="300">
+
+#### The Horizontal Logo <a id="horizontal-logo"></a>
+The horizontal logo may be used only with express permission. To request permission, please email Brand@Russell.com. The horizontal logo appears only in black or white and must never be re-created or typeset in an alternative font.
+
+<img src="assets/img/russell-horizontal-black-bg.svg" width="300"> <img src="assets/img/rlogo_horizontal.svg" width="300">
+
+#### Clear Space Around Logo <a id="space-logo"></a>
+It is important to be conscious of the clear space around the logo. The minimum clear space required is equal to the height of the tallest mountain in the logomark. This space helps establish the importance of the logo in environments where it competes with other graphic elements, such as headlines, text, imagery, line work and even the edges of print or Web pages.
+
+<img src="assets/img/russell-logo-space.svg" width="300"> <img src="assets/img/horizontal_space.svg" width="500">
+
+#### Minimum Sizes for the Logo <a id="minimum-logo"></a>
+The Russell logo may vary in size, in accordance with the scale of content, for a given design. Resolutions shown here are for the minimum width permitted on the largest viewport (desktop browser).
+
+* The stacked logo has a minimum width of 126px @ resolutions of 72 pixels per inch.
+
+<img src="assets/img/russell-stacked-dimensions.svg" width="300">
+
+* The horizontal logo has a minimum width of 174px @ resolutions of 72 pixels per inch.
+
+<img src="assets/img/rlogo-horizontal-dimensions.svg" width="300">
+
+Specific size requirements for mobile, mastheads and other digital products are listed in the applicable section of this document.
+
+#### The Russell Mountain <a id="russell-mountain"></a>
+Social media and mobile platforms sometimes require a small, square logo. In these cases, it may be permissible to separate the Russell mountain logomark from the logo. To request permission, please email Brand@Russell.com.
+
+The Russell mountain may appear only in black or white: for instance, a black logomark with white background for our social channel presence and our favicon.
+
+<img src="assets/img/mountain.svg" width="100">
+
+##### Global and Russell Indexes Mobile App Icons
+<img src="assets/img/russell-mobile-app.svg" width="200">
+
+##### Favion
+<img src="assets/img/favicon-example.svg" width="300">
+
+#### Logo Requirements for Mobile Apps <a id="russell-mobile"></a> 
+Given the small viewport on many mobile devices, the Russell logo may disappear on secondary pages. Therefore, all Russell mobile app start screens are required to feature the corporate logo at the sizes specified at right (or proportionally resized for other device screen resolutions). Use of the brand stripe or footprints is optional.
+
+At right, a start/load screen created for the Russell Indexes performance app shows the proper size of the Russell logo (relative to screen real estate) on iPad Air/4 and iPhone 5s. Other than the app icon, type styles and colors, the logo on this screen is the only brand hit present, so it is important to showcase it.
+
+<img src="assets/img/russell-mobile-dimensions.svg" width="200"> <img src="assets/img/mobile-screens.svg" width="350">
+
+### Stripe <a id="brand-elements-stripe"></a>
+---
+#### Application of the stripe
+* Space permitting, use of the stripe helps establish brand recognition and distinction
+* Suggested locations include using the stripe as a subtle overlay on a photo in the bottom right corner of the image; as a stand-alone visual graphic in headers or banners where an appropriate photo is hard to source; as a precursor to charts or tables; or to the right of the Russell logo.
+* Please note that past versions of the stripe may not be used.
+
+<img src="assets/img/stripe-1.svg" width="100"> <img src="assets/img/stripe-2.svg" width="150">
+### The Journey <a id="brand-elements-journey"></a>
+---
+#### Application of the footer
+The approved global footer treatment shown here pairs footprints with the statement “Invested. Together.&trade;” or “We stand with you.” This combination is used as a means to establish consistency and further promote the journey message. The majority of websites and online properties will include a footer. Please note that a trademark (TM) symbol always follows the phrase, “Invested. Together.&trade;”
+
+#### Exclusions
+It is acceptable to omit the global footer when the purpose of the Web- based product or service is to function as an application or a tool in which use of the entire viewport is necessary. In these instances, how the footer is treated is left to designer/developer discretion.
+
+<img src="assets/img/footer.svg" width="800">
